@@ -1,13 +1,20 @@
 VERSION="2.2.1"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 ACCOUNTS=["GANGDZOHWSTLMLLCOONE3BE73CVAN3DB7OEIV455NV7Y5LPJSPKUIWZG"]
+
 [DOCUMENTATION]
-ORG_NAME="BullManOfficial"
+ORG_NAME="bullmanofficial"
 ORG_DESCRIPTION="Beyond operating the world's leading cryptocurrency exchange, Stellar spans an entire ecosystem."
 ORG_DBA="bullmanofficial.github.io"
 ORG_URL="https://bullmanofficial.github.io"
 ORG_LOGO= "https://bullmanofficial.github.io/favicon.png"
-ORG_OFFICIAL_EMAIL="BullManOfficial@proton.me"
+ORG_OFFICIAL_EMAIL="bullmanofficial@proton.me"
+
+[[PRINCIPALS]]
+name="bullmanofficial"
+email="bullmanofficial@proton.me"
+twitter="bullmanofficial"
+github="bullmanofficial"
 
 [[CURRENCIES]]
 code="BULLMAN"
