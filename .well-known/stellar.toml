@@ -1,0 +1,26 @@
+VERSION="2.2.1"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://stellarid.io/federation/"
+ACCOUNTS=["GANGDZOHWSTLMLLCOONE3BE73CVAN3DB7OEIV455NV7Y5LPJSPKUIWZG"]
+[DOCUMENTATION]
+ORG_NAME="BullManOfficial"
+ORG_DESCRIPTION="Beyond operating the world's leading cryptocurrency exchange, Stellar spans an entire ecosystem."
+ORG_DBA="bullmanofficial.github.io"
+ORG_URL="https://bullmanofficial.github.io"
+ORG_LOGO= "https://bullmanofficial.github.io/favicon.png"
+ORG_OFFICIAL_EMAIL="BullManOfficial@proton.me"
+
+[[CURRENCIES]]
+code="BULLMAN"
+status="live"
+issuer="GANGDZOHWSTLMLLCOONE3BE73CVAN3DB7OEIV455NV7Y5LPJSPKUIWZG"
+display_decimals=7
+name="BULLMAN"
+desc="Structured Products - Perpetual Tracker Certificates."
+conditions="Withdrawal fees apply"
+image="https://bullmanofficial.github.io/img/BULLMAN.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="BULLMAN"
+anchor_asset_type="crypto"
+
