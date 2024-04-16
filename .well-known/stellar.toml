@@ -42,31 +42,3 @@ is_asset_anchored=true
 is_unlimited=false
 anchor_asset="BEARMAN"
 anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="xBULL"
-status="live"
-issuer="GANGDZOHWSTLMLLCOONE3BE73CVAN3DB7OEIV455NV7Y5LPJSPKUIWZG"
-display_decimals=7
-name="xBULL"
-desc="Beyond operating the world's leading cryptocurrency exchange, Stellar spans an entire ecosystem."
-conditions="Withdrawal fees apply"
-image="https://bullmanofficial.github.io/img/XBULL.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="BULLMAN"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="XOGE"
-status="live"
-issuer="GANGDZOHWSTLMLLCOONE3BE73CVAN3DB7OEIV455NV7Y5LPJSPKUIWZG"
-display_decimals=7
-name="XOGE"
-desc="Beyond operating the world's leading cryptocurrency exchange, Stellar spans an entire ecosystem."
-conditions="Withdrawal fees apply"
-image="https://bullmanofficial.github.io/img/XOGE.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="BULLMAN"
-anchor_asset_type="crypto"
